@@ -12,4 +12,4 @@ sortNumber(number);
 cosole.log(number);
 
 ## commit demo pull_request_func
-## Added demo 
+## Added demo code 
